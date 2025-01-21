@@ -1,0 +1,21 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Brass"
+    },
+    {
+      "id": 1,
+      "name": "Nylon"
+    },
+    {
+      "id": 2,
+      "name": "Steel"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
